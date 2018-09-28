@@ -1,5 +1,5 @@
-# Created by .ignore support plugin (hsz.mobi)
-### Node template
+### https://raw.github.com/github/gitignore/35441e97b4587b18284ce76d19a0133319c3c320/Node.gitignore
+
 # Logs
 logs
 *.log
@@ -68,14 +68,10 @@ typings/
 # nuxt.js build output
 .nuxt
 
-# Nuxt generate
-dist
-
 # vuepress build output
 .vuepress/dist
 
 # Serverless directories
 .serverless
 
-# IDE
-.idea
+
